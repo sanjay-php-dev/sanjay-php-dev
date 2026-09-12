@@ -1,11 +1,8 @@
 Hi, I’m Sanjay Khakhadiya 👋
 
-Senior PHP Web Developer | Laravel | CodeIgniter | WordPress | REST APIs | Frontend UI
+12+ Years of Experience | PHP • Laravel • CodeIgniter • MySQL • REST APIs • WordPress
 
-I’m a Senior PHP Web Developer with 12+ years of experience building, maintaining, and optimizing web applications and business solutions.
-
-I specialize in developing reliable backend systems, APIs, CMS-based websites, and responsive web interfaces.
-
+Senior PHP Developer with 12+ years of experience in PHP web application development, including 8+ years with CodeIgniter and 5+ years with Laravel and WordPress. Experienced in Core PHP, frontend and backend development, responsive UI development, MySQL, REST APIs, third-party API integration, API testing and debugging, database optimization, application maintenance and performance improvement. Hands-on experience with HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, DataTables, Git and Cron Jobs, with a strong focus on developing reliable, maintainable and scalable web applications.
 
 🚀 What I Do
 
@@ -24,31 +21,14 @@ I specialize in developing reliable backend systems, APIs, CMS-based websites, a
 
 🛠️ Tech Stack
 
-Backend
-•	PHP
-•	Laravel
-•	CodeIgniter
-•	REST APIs
-•	MySQL
-
-CMS
-•	WordPress
-•	WooCommerce
-
-Frontend
-•	HTML5
-•	CSS3
-•	JavaScript
-•	Bootstrap
-•	Responsive UI Development
-
-Tools & Platforms
-•	Git
-•	GitHub
-•	Linux
-•	cPanel
-•	Apache
-•	MySQL
+•	**Backend:** PHP, Laravel, CodeIgniter, MVC Architecture
+•	**Database:** MySQL, Database Management, SQL Query Optimization
+•	**APIs & Integration:** REST APIs, Third-Party APIs, Postman, cURL, Mailchimp
+•	**Frontend & UI:** JavaScript, jQuery, DataTables, AJAX, HTML, CSS, Bootstrap, Figma
+•	**CMS & E-commerce:** WordPress, WooCommerce, Theme & Plugin Customization
+•	**Version Control & Development:** Git, GitHub, VS Code Source Control, Amazon Q Developer
+•	**Hosting & Automation:** cPanel, Cron Jobs, Website Hosting & Deployment
+•	**Testing & Documentation:** Unit Testing, Technical Documentation, Code Review, Troubleshooting
 
 
 📌 Featured Projects
